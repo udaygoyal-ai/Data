@@ -1,3 +1,9 @@
 
 # Duplicate skill copies written by `npx skills add` for other agents
 agent/
+
+# Large media for video edits (source footage, B-roll, music, renders)
+video-edit/**/*.mp4
+video-edit/**/*.mov
+video-edit/**/*.wav
+video-edit/**/*.mp3
